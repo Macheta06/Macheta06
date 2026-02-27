@@ -25,14 +25,14 @@ I am a recently graduated **Systems Engineer** focused on building robust, scala
 ---
 
 ### 📈 Featured Project:
-- **[somos-huizy](https://github.com/your-username/somos-huizy):** A full-featured E-commerce platform built with the MERN stack. It includes advanced functionalities beyond standard shopping carts, focusing on [mention one key "extra" feature here, e.g., custom inventory management or specialized user roles].
+- **[somos-huizy](https://github.com/your-username/somos-huizy):** A full-featured E-commerce platform built with the MERN stack. It includes advanced functionalities beyond standard shopping carts, focusing on specialized user roles.
 
 ---
 
 ### 📫 Let's Connect:
 I'm always looking for new challenges and opportunities to grow as a professional.
 
-- **LinkedIn:** [Your LinkedIn Profile Link]
+- **LinkedIn:** https://www.linkedin.com/in/andres-macheta/
 
 ---
 

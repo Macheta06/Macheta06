@@ -25,7 +25,7 @@ I am a recently graduated **Systems Engineer** focused on building robust, scala
 ---
 
 ### 📈 Featured Project:
-- **[somos-huizy](https://github.com/Macheta06/somos-huizy):** A full-featured E-commerce platform built with the MERN stack. It includes advanced functionalities beyond standard shopping carts, focusing on specialized user roles.
+- **[somos-huizy](https://github.com/Macheta06/huizy-store):** A full-featured E-commerce platform built with the MERN stack. It includes advanced functionalities beyond standard shopping carts, focusing on specialized user roles.
 
 ---
 

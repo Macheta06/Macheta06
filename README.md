@@ -28,7 +28,7 @@ I am a **Systems Engineer** focused on building robust, scalable, and production
 
 ### 📈 Featured Projects:
 
-- **[El Agropecuario Backend](https://github.com/Macheta06/agropecuario-backend):** A fully production-ready, decoupled REST API built with TypeScript and Express 5. It features robust CORS management, automated data seeding, image processing, and a scalable data layer powered by MongoDB Atlas. Deployed as an independent Node.js environment on Hostinger.
+- **[El Agropecuario Website](https://github.com/Macheta06/agropecuario-website):** A fully production-ready, decoupled REST API built with TypeScript and Express 5. It features robust CORS management, automated data seeding, image processing, and a scalable data layer powered by MongoDB Atlas. Deployed as an independent Node.js environment on Hostinger.
 - **[somos-huizy](https://github.com/Macheta06/huizy-store):** A full-featured e-commerce platform built with the MERN stack. It includes advanced functionalities beyond standard shopping carts, focusing on specialized user roles.
 
 ---
